@@ -1,23 +1,13 @@
-# Self-Driving-Car-simulation
-Self Driving Car simulation on Udacity Simulator
+# Chat App
+A chatting app designed with React Native and Firebase
 
 
 # dependencies include
-- tensorflow
-- keras
-- socketio
-- flask
-- pillow
-- socketio
-- eventlet
-- cv2
+- react-navigation
+- react-navigation-stack
+- react-navtive-gesture-handler
+- frebase
+- react-navtive-gifted-chat
 
 
-# link to simulator
-https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f3a4_simulator-windows-64/simulator-windows-64.zip
-
-# steps
-- create an anaconda environment
-- activate it
-- run the python script
-- open the simulator in autonomous mode 
+# check firebase version for compatibility with your expo version
